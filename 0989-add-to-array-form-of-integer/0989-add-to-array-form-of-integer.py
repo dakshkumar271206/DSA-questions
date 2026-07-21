@@ -8,9 +8,4 @@ class Solution(object):
         for _ in r:
             re.append(int(_))
         return re
-        """
-        :type num: List[int]
-        :type k: int
-        :rtype: List[int]
-        """
         
