@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0002-add-two-numbers](https://github.com/dakshkumar271206/DSA-questions/tree/master/0002-add-two-numbers) |
 | [0009-palindrome-number](https://github.com/dakshkumar271206/DSA-questions/tree/master/0009-palindrome-number) |
 | [0013-roman-to-integer](https://github.com/dakshkumar271206/DSA-questions/tree/master/0013-roman-to-integer) |
+| [0043-multiply-strings](https://github.com/dakshkumar271206/DSA-questions/tree/master/0043-multiply-strings) |
 | [0066-plus-one](https://github.com/dakshkumar271206/DSA-questions/tree/master/0066-plus-one) |
 | [0415-add-strings](https://github.com/dakshkumar271206/DSA-questions/tree/master/0415-add-strings) |
 | [0989-add-to-array-form-of-integer](https://github.com/dakshkumar271206/DSA-questions/tree/master/0989-add-to-array-form-of-integer) |
@@ -18,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/dakshkumar271206/DSA-questions/tree/master/0013-roman-to-integer) |
+| [0043-multiply-strings](https://github.com/dakshkumar271206/DSA-questions/tree/master/0043-multiply-strings) |
 | [0415-add-strings](https://github.com/dakshkumar271206/DSA-questions/tree/master/0415-add-strings) |
 ## Linked List
 |  |
@@ -30,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0043-multiply-strings](https://github.com/dakshkumar271206/DSA-questions/tree/master/0043-multiply-strings) |
 | [0415-add-strings](https://github.com/dakshkumar271206/DSA-questions/tree/master/0415-add-strings) |
 ## Array
 |  |
