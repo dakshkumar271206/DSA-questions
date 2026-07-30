@@ -37,6 +37,15 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/dakshkumar271206/DSA-questions/tree/master/0004-median-of-two-sorted-arrays) |
 | [0066-plus-one](https://github.com/dakshkumar271206/DSA-questions/tree/master/0066-plus-one) |
 | [0989-add-to-array-form-of-integer](https://github.com/dakshkumar271206/DSA-questions/tree/master/0989-add-to-array-form-of-integer) |
+## Binary Search
+|  |
+| ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/dakshkumar271206/DSA-questions/tree/master/0004-median-of-two-sorted-arrays) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/dakshkumar271206/DSA-questions/tree/master/0004-median-of-two-sorted-arrays) |
 <!---LeetCode Topics End-->
