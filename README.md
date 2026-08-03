@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0008-string-to-integer-atoi](https://github.com/dakshkumar271206/DSA-questions/tree/master/0008-string-to-integer-atoi) |
 | [0013-roman-to-integer](https://github.com/dakshkumar271206/DSA-questions/tree/master/0013-roman-to-integer) |
 | [0043-multiply-strings](https://github.com/dakshkumar271206/DSA-questions/tree/master/0043-multiply-strings) |
 | [0415-add-strings](https://github.com/dakshkumar271206/DSA-questions/tree/master/0415-add-strings) |
